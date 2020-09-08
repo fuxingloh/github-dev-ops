@@ -1,0 +1,6 @@
+# editorconfig.org
+root = true
+
+[*.md]
+trim_trailing_whitespace = false
+max_line_length = 90

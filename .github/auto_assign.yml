@@ -2,6 +2,6 @@ addAssignees: author
 addReviewers: true
 
 reviewers:
-#  - github
+  - username
 
-numberOfReviewers: 5
+numberOfReviewers: 0

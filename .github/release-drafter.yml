@@ -29,4 +29,6 @@ version-resolver:
       - 'fix'
   default: patch
 template: |
+  ## Changes
+
   $CHANGES
